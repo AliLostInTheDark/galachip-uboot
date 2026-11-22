@@ -1,0 +1,9 @@
+if TARGET_TPLINK_XZ000_G7
+
+config SYS_BOARD
+	default "xz000-g7"
+
+config SYS_VENDOR
+	default "tplink"
+
+endif
